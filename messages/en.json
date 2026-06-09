@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "title": "Nexora — Web & Mobile Studio from Sibiu, Transylvania",
+    "description": "Nexora is an IT studio from Sibiu, Transylvania. We craft fast, modern websites and cross-platform mobile apps with Next.js, React, Node.js, Nest.js, PHP and React Native."
+  },
+  "nav": {
+    "services": "Services",
+    "tech": "Technologies",
+    "about": "About",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "cta": "Start a project"
+  },
+  "hero": {
+    "badge": "IT Studio · Sibiu, Transylvania",
+    "titleLead": "We build",
+    "titleHighlight": "digital products",
+    "titleTail": "that move fast.",
+    "subtitle": "Nexora designs and engineers high-end websites and cross-platform mobile apps — on any engine you like, or on a cutting-edge modern stack built for speed and scale.",
+    "ctaPrimary": "Message on WhatsApp",
+    "ctaSecondary": "See our work style",
+    "scroll": "Scroll to explore",
+    "pills": {
+      "web": "Websites",
+      "mobile": "Mobile apps",
+      "modern": "Modern stack"
+    }
+  },
+  "marquee": {
+    "label": "Working with"
+  },
+  "services": {
+    "tag": "What we do",
+    "title": "Two crafts, one studio",
+    "subtitle": "From a polished landing page to a full cross-platform product — we take it from idea to launch.",
+    "web": {
+      "title": "Websites & Web Platforms",
+      "desc": "Marketing sites, corporate platforms, online stores and custom web apps. Built to load instantly, rank well and look stunning on every screen.",
+      "features": [
+        "Landing pages & corporate websites",
+        "E-commerce & online stores",
+        "Custom web applications & dashboards",
+        "Any engine or CMS — WordPress, Tilda, headless and more"
+      ]
+    },
+    "mobile": {
+      "title": "Mobile Applications",
+      "desc": "One codebase, every platform. We ship native-feeling iOS and Android apps with React Native and handle the full path to the stores.",
+      "features": [
+        "iOS & Android from a single codebase",
+        "React Native for every platform",
+        "Native performance & smooth animations",
+        "App Store & Google Play publishing"
+      ]
+    },
+    "engines": {
+      "title": "Any engine, or the modern way",
+      "desc": "Need it on a specific platform or CMS? Done. Want the fastest, most maintainable modern stack? Even better. You choose the destination — we choose the best road there."
+    }
+  },
+  "tech": {
+    "tag": "Our toolkit",
+    "title": "Built on a modern, battle-tested stack",
+    "subtitle": "We pick the right tool for the job — and keep everything fast, secure and easy to grow.",
+    "groups": {
+      "frontend": {
+        "title": "Frontend",
+        "desc": "Interfaces that feel instant and delightful."
+      },
+      "backend": {
+        "title": "Backend",
+        "desc": "Robust APIs and services that scale."
+      },
+      "mobile": {
+        "title": "Mobile",
+        "desc": "Cross-platform apps from one codebase."
+      },
+      "databases": {
+        "title": "Databases",
+        "desc": "Every modern database — relational or NoSQL."
+      }
+    }
+  },
+  "about": {
+    "tag": "Who we are",
+    "title": "Born in Sibiu, the heart of Transylvania",
+    "lead": "Nexora is an independent IT studio rooted in Sibiu, Transylvania. We combine European craftsmanship with a modern engineering mindset.",
+    "body": "We believe great software is equal parts beautiful and reliable. Every project gets thoughtful design, clean code and honest communication — from the first message to the final launch and beyond.",
+    "points": {
+      "quality": {
+        "title": "Precision & quality",
+        "desc": "Delivered exactly to spec, tested and polished to the last detail."
+      },
+      "speed": {
+        "title": "Fast turnaround",
+        "desc": "Clear timelines and rapid delivery, without cutting corners."
+      },
+      "care": {
+        "title": "Real communication",
+        "desc": "Responsive feedback and a partner who truly understands your goals."
+      },
+      "modern": {
+        "title": "Future-proof tech",
+        "desc": "Modern stack that stays fast and easy to maintain as you grow."
+      }
+    }
+  },
+  "reviews": {
+    "tag": "Client words",
+    "title": "Trusted by the people we work with",
+    "subtitle": "A few words from clients who shipped their products with us.",
+    "items": [
+      {
+        "name": "Vadim Develop",
+        "role": "Client",
+        "text": "Excellent developer! The work was delivered quickly and exactly to spec. Every request was taken into account and the communication was top-notch. You can tell this person truly knows what they're doing. Highly recommend working with them!"
+      },
+      {
+        "name": "Timur Tkachuk",
+        "role": "Client",
+        "text": "Great work. Everything was on time and high quality. Recommend."
+      },
+      {
+        "name": "Sergey B.",
+        "role": "Client",
+        "text": "Everything is perfect! The task was completed precisely and with great quality, all conditions met. The work was done fast and professionally. I gladly recommend this contractor! A huge thank you for the productive collaboration!"
+      }
+    ]
+  },
+  "contact": {
+    "tag": "Get in touch",
+    "title": "Let's build something great",
+    "subtitle": "This is an information site — no forms, no friction. Reach out directly and we'll start your project.",
+    "whatsapp": {
+      "label": "WhatsApp",
+      "value": "+40 753 358 717",
+      "action": "Chat now"
+    },
+    "instagram": {
+      "label": "Instagram",
+      "value": "@nexora.itstudio",
+      "action": "Follow us"
+    },
+    "email": {
+      "label": "Email",
+      "value": "chipserso@gmail.com",
+      "action": "Write to us"
+    },
+    "location": {
+      "label": "Location",
+      "value": "Sibiu, Transylvania · Romania"
+    }
+  },
+  "footer": {
+    "tagline": "Web & mobile studio crafting fast, modern digital products.",
+    "madeIn": "Made with care in Sibiu, Transylvania",
+    "rights": "All rights reserved.",
+    "links": "Navigate"
+  }
+}

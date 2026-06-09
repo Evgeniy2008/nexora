@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "title": "Nexora — Studio Web & Mobil din Sibiu, Transilvania",
+    "description": "Nexora este un studio IT din Sibiu, Transilvania. Creăm site-uri moderne și rapide și aplicații mobile cross-platform cu Next.js, React, Node.js, Nest.js, PHP și React Native."
+  },
+  "nav": {
+    "services": "Servicii",
+    "tech": "Tehnologii",
+    "about": "Despre noi",
+    "reviews": "Recenzii",
+    "contact": "Contact",
+    "cta": "Începe un proiect"
+  },
+  "hero": {
+    "badge": "Studio IT · Sibiu, Transilvania",
+    "titleLead": "Construim",
+    "titleHighlight": "produse digitale",
+    "titleTail": "rapide și moderne.",
+    "subtitle": "Nexora proiectează și dezvoltă site-uri web de top și aplicații mobile cross-platform — pe orice motor îți dorești sau pe un stack modern de ultimă generație, gândit pentru viteză și scalare.",
+    "ctaPrimary": "Scrie pe WhatsApp",
+    "ctaSecondary": "Vezi stilul nostru",
+    "scroll": "Derulează pentru a explora",
+    "pills": {
+      "web": "Site-uri web",
+      "mobile": "Aplicații mobile",
+      "modern": "Stack modern"
+    }
+  },
+  "marquee": {
+    "label": "Lucrăm cu"
+  },
+  "services": {
+    "tag": "Ce facem",
+    "title": "Două meserii, un singur studio",
+    "subtitle": "De la o pagină de prezentare rafinată la un produs complet cross-platform — îl ducem de la idee la lansare.",
+    "web": {
+      "title": "Site-uri & Platforme Web",
+      "desc": "Site-uri de prezentare, platforme corporate, magazine online și aplicații web personalizate. Construite să se încarce instant, să fie bine poziționate și să arate impecabil pe orice ecran.",
+      "features": [
+        "Pagini de prezentare & site-uri corporate",
+        "E-commerce & magazine online",
+        "Aplicații web personalizate & panouri de administrare",
+        "Orice motor sau CMS — WordPress, Tilda, headless și altele"
+      ]
+    },
+    "mobile": {
+      "title": "Aplicații Mobile",
+      "desc": "Un singur cod, toate platformele. Livrăm aplicații iOS și Android cu senzație nativă folosind React Native și ne ocupăm de tot drumul până în magazine.",
+      "features": [
+        "iOS & Android dintr-un singur cod",
+        "React Native pentru orice platformă",
+        "Performanță nativă & animații fluide",
+        "Publicare în App Store & Google Play"
+      ]
+    },
+    "engines": {
+      "title": "Orice motor, sau calea modernă",
+      "desc": "Ai nevoie pe o anumită platformă sau CMS? Rezolvat. Vrei cel mai rapid și ușor de întreținut stack modern? Și mai bine. Tu alegi destinația — noi alegem cel mai bun drum până acolo."
+    }
+  },
+  "tech": {
+    "tag": "Instrumentele noastre",
+    "title": "Construit pe un stack modern și verificat",
+    "subtitle": "Alegem unealta potrivită pentru fiecare sarcină — și păstrăm totul rapid, sigur și ușor de scalat.",
+    "groups": {
+      "frontend": {
+        "title": "Frontend",
+        "desc": "Interfețe care par instantanee și plăcute."
+      },
+      "backend": {
+        "title": "Backend",
+        "desc": "API-uri și servicii robuste, care scalează."
+      },
+      "mobile": {
+        "title": "Mobil",
+        "desc": "Aplicații cross-platform dintr-un singur cod."
+      },
+      "databases": {
+        "title": "Baze de date",
+        "desc": "Orice bază de date modernă — relațională sau NoSQL."
+      }
+    }
+  },
+  "about": {
+    "tag": "Cine suntem",
+    "title": "Născuți în Sibiu, inima Transilvaniei",
+    "lead": "Nexora este un studio IT independent, cu rădăcini în Sibiu, Transilvania. Îmbinăm măiestria europeană cu o gândire inginerească modernă.",
+    "body": "Credem că software-ul bun este în egală măsură frumos și fiabil. Fiecare proiect primește design atent, cod curat și comunicare onestă — de la primul mesaj până la lansarea finală și dincolo de ea.",
+    "points": {
+      "quality": {
+        "title": "Precizie & calitate",
+        "desc": "Livrat exact conform specificațiilor, testat și șlefuit până la ultimul detaliu."
+      },
+      "speed": {
+        "title": "Livrare rapidă",
+        "desc": "Termene clare și livrare promptă, fără compromisuri la calitate."
+      },
+      "care": {
+        "title": "Comunicare reală",
+        "desc": "Feedback prompt și un partener care îți înțelege cu adevărat obiectivele."
+      },
+      "modern": {
+        "title": "Tehnologie de viitor",
+        "desc": "Stack modern care rămâne rapid și ușor de întreținut pe măsură ce crești."
+      }
+    }
+  },
+  "reviews": {
+    "tag": "Cuvintele clienților",
+    "title": "Apreciați de cei cu care lucrăm",
+    "subtitle": "Câteva cuvinte de la clienți care și-au lansat produsele împreună cu noi.",
+    "items": [
+      {
+        "name": "Vadim Develop",
+        "role": "Client",
+        "text": "Dezvoltator excelent! Lucrarea a fost realizată rapid și exact conform specificațiilor. Toate cerințele au fost luate în considerare, iar comunicarea a fost impecabilă. Se vede că omul știe cu adevărat ce face. Recomand cu căldură colaborarea!"
+      },
+      {
+        "name": "Timur Tkachuk",
+        "role": "Client",
+        "text": "Lucrare excelentă. Totul la timp și de calitate. Recomand."
+      },
+      {
+        "name": "Sergey B.",
+        "role": "Client",
+        "text": "Totul este perfect! Sarcina a fost îndeplinită exact și calitativ, toate condițiile au fost respectate. Lucrarea a fost realizată rapid și profesionist. Recomand cu plăcere acest executant! Mulțumesc enorm pentru colaborarea productivă!"
+      }
+    ]
+  },
+  "contact": {
+    "tag": "Ia legătura",
+    "title": "Hai să construim ceva grozav",
+    "subtitle": "Acesta este un site informativ — fără formulare, fără bătăi de cap. Contactează-ne direct și începem proiectul tău.",
+    "whatsapp": {
+      "label": "WhatsApp",
+      "value": "+40 753 358 717",
+      "action": "Scrie acum"
+    },
+    "instagram": {
+      "label": "Instagram",
+      "value": "@nexora.itstudio",
+      "action": "Urmărește-ne"
+    },
+    "email": {
+      "label": "Email",
+      "value": "chipserso@gmail.com",
+      "action": "Scrie-ne"
+    },
+    "location": {
+      "label": "Locație",
+      "value": "Sibiu, Transilvania · România"
+    }
+  },
+  "footer": {
+    "tagline": "Studio web & mobil care creează produse digitale rapide și moderne.",
+    "madeIn": "Creat cu grijă în Sibiu, Transilvania",
+    "rights": "Toate drepturile rezervate.",
+    "links": "Navigare"
+  }
+}
